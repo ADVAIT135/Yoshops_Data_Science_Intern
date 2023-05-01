@@ -1,0 +1,8 @@
+Task-3:Fake buyer Identification System:
+EDA Report Generate below input value(1 to 5)using Test Data file(Yoshops.com Sale Order file) :
+Input value for generate PDF and CSV file:
+1.The shipping address differs from the billing address.
+2.Multiple orders of the same item.
+3.Unusually large orders.
+4.Multiple orders to the same address with different payment method.
+5.Unexpected international orders.
