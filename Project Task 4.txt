@@ -1,0 +1,11 @@
+Task-4
+Products Page Automation Validation
+Write a python programm to find product page where Products Image missing.
+Enter 1 for Input value  = Yoshops.com
+Enter 2 for Input value= Any main categories and sub categories Link
+Output = create excel file with  web url, Products name, Products Details, contact no and address columns.
+task - Work flow logic:
+First  get the url of each product so that you can check whether their images are missing or not in the next step.
+To do that  using beautiful soup or Auto Scraper lib file which requires a raw html code or webpage as a parameter and not a url(ie. yoshops.com).
+You decided to use the request package to get the yoshops.com webpage so that you can pass it to beautiful soup but having permission issues.
+Use urllib open instead of request get
