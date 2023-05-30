@@ -1,0 +1,5 @@
+Task 7
+Prepare a dataset of mobile phones having price less than or equal to Rs. 10000. In the dataset. with most reviewed by customer.
+
+Include all necessary feature required for a mobile phone like : 
+RAM, storage, Front Camera, Rear camera, Display, Processor etc.....
