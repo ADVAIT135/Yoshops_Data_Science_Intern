@@ -1,0 +1,11 @@
+Task 8:
+1.Write a python program for merge two excel file data to one file
+2.Write a python program to shorting file in different folder means main folder containing 40 word file.
+Now after shorting create 4 child folder and store 10 file each folder.
+3.Write a python programm separate duplicate file.
+Check with mobile number in main excel file and test data  doc and if it is same or equal create sperate file and store duplicate file data
+4.Write a python programm for Shorting file by keywords.
+input: folder path = text value
+Create new folder=text value
+Search Keyword= text value
+Output: Create folder with input value and inside folder all shorting files displaying.
