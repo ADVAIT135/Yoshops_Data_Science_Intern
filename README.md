@@ -8,3 +8,4 @@
 <p>Mega link for Project Task 5 : https://mega.nz/folder/cF8CwJKQ#s9lxqTO7V1hPjK7LeB4kaA</p>
 <p>Mega link for Project Task 6 : https://mega.nz/folder/BFFRQRyR#6-MQs9lWQs0RpGb180mtYQ</p>
 <p>Mega link for Project Task 7 : https://mega.nz/folder/pItFCQTa#GtivIhBZnVNI0u-0DDWcbw</p>
+<p>Mega link for Project Task 8 : https://mega.nz/folder/wVFAjSTA#bXiTbmrS-jrrBqTk15O0_w</p>
