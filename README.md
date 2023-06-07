@@ -1,5 +1,5 @@
 <h2 align="left"> Who am I:</h2>
-<p align = center> <img src="https://github.com/ADVAIT135/Yoshops_Data_Science_Intern/blob/main/ADVAIT%20CHAVAN%20Linked%20In%20Banner.png" / height = 250 /width=1000>
+<p align = center> <img src="https://github.com/ADVAIT135/Yoshops_Data_Science_Intern/blob/main/ADVAIT%20CHAVAN%20Linked%20In%20Banner.png" / height = 250 /width=1000></p>
 
 
 # Yoshops_Data_Science_Intern
@@ -14,3 +14,6 @@
 <p>Mega link for Project Task 7 : https://mega.nz/folder/pItFCQTa#GtivIhBZnVNI0u-0DDWcbw</p>
 <p>Mega link for Project Task 8 : https://mega.nz/folder/wVFAjSTA#bXiTbmrS-jrrBqTk15O0_w</p>
 <p>Mega link for Project Task 9 : https://mega.nz/folder/BZN2EQ5A#eZloosje04P0Ff7_e9VCSA</p>
+
+# Internship Certificate
+[Advait Chavan's Data Science Internship Completion Certificate](https://github.com/ADVAIT135/Yoshops_Data_Science_Intern/blob/main/YOSHOPS%20DATA%20SCIENCE%20INTERNSHIP%20CERTIFICATE%20--%20ADVAIT%20CHAVAN.pdf)
